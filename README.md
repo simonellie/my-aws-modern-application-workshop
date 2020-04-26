@@ -11,6 +11,7 @@ In the first case, it's necessary to create a [cloud9] workspace and call cli co
 ## Module 2
 
 For full time I follow instructions available in [module-2 explain] page.
+There're some script I used for help me in configuration (look at .sh files inside of module-2 folder).
 
 <!-- here all links used in the document, please! -->
 
