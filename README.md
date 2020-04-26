@@ -10,10 +10,12 @@ In the first case, it's necessary to create a [cloud9] workspace and call cli co
 
 ## Module 2
 
+For full time I follow instructions available in [module-2 explain] page.
+
 <!-- here all links used in the document, please! -->
 
 [this repository]: https://github.com/aws-samples/aws-modern-application-workshop
 [s3]: https://s3.console.aws.amazon.com/s3/
 [module-1 explain]: https://github.com/aws-samples/aws-modern-application-workshop/tree/java/module-1
 [cloud9]: https://eu-west-1.console.aws.amazon.com/cloud9
-
+[module-2 explain]: https://github.com/simonellie/my-aws-modern-application-workshop#my-aws-modern-application-workshop
