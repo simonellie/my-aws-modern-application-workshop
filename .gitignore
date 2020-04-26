@@ -1,2 +1,8 @@
 
 .idea
+module-2/cloudformation-core-output.json
+module-2/task-definition.json
+module-2/target-group-output.json
+module-2/service-definition.json
+module-2/nlb-output.json
+module-2/core.yml

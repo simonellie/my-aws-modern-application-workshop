@@ -8,6 +8,7 @@ This first section will cover [s3] console usage for bucket creation and access.
 It's possible to use cli, such as in [module-1 explain], or using console.
 In the first case, it's necessary to create a [cloud9] workspace and call cli commands from created workspace.
 
+## Module 2
 
 <!-- here all links used in the document, please! -->
 
