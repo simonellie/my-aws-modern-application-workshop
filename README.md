@@ -19,6 +19,10 @@ In this module we've also compilation and ci/cd setup
 Using [dynamoDB] for database.
 Some changes in code and run of automatic deploy after correct build!
 
+## Module 4: Adding User and API features with Amazon API Gateway and AWS Cognito
+
+Added more features!
+
 <!-- here all links used in the document, please! -->
 
 [this repository]: https://github.com/aws-samples/aws-modern-application-workshop

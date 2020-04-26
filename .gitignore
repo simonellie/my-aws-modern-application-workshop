@@ -6,3 +6,8 @@ module-2/target-group-output.json
 module-2/service-definition.json
 module-2/nlb-output.json
 module-2/core.yml
+module-4/import-rest-api-output.json
+module-4/create-user-pool-output.json
+module-4/create-user-pool-client-output.json
+module-4/create-deployment-output.json
+module-4/api-gateway-link-output.json
